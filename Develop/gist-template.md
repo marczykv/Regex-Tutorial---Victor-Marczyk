@@ -1,6 +1,7 @@
-# Title (replace with your title)
+# Regex Tutorial: Matching an Email
 
-Introductory paragraph (replace this with your text)
+Introductory paragraph - This tutorial aims to break down the regular expression used for matching email addresses. By the end of this guide, you'll understand the various components of this regex and how they contribute to accurately identifying valid email addresses.
+The regex `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/` is designed to match most standard email formats. It looks for a sequence of characters before and after the `@` symbol, ensuring there's a domain and a top-level domain.
 
 ## Summary
 
