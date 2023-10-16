@@ -15,6 +15,7 @@ The regex `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/` is designed to mat
 - [Character Classes](#character-classes)
 - [Grouping and Capturing](#grouping-and-capturing)
 
+
 ## Regex Components
 
 ### Anchors
@@ -35,3 +36,4 @@ Parentheses `()` are used for grouping and capturing. Each part in parentheses i
 ## Author
 
 Victor Marczyk - I'm a coding enthusiast passionate about regular expressions. [Check out my GitHub profile](https://github.com/marczykv).
+
